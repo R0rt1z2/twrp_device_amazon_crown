@@ -1,0 +1,2 @@
+/system        ext4   /dev/block/platform/soc/by-name/system      flags=backup=1
+/system_image  emmc   /dev/block/platform/soc/by-name/system      flags=backup=1
